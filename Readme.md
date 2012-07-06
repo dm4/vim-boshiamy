@@ -1,6 +1,6 @@
 # vim-boshiamy
 
-*vim-boshiamy* is a fork from [vimim][vimim] 0.9.9.9.6 with some customize settings for boshiamy.
+**vim-boshiamy** is a fork from [vimim][vimim] 0.9.9.9.6 with some customize settings for boshiamy.
 
 ## Usage
 
@@ -9,7 +9,7 @@
 
 ## 字根表
 
-在 [vimim-data][vimim-data] 裡的 `vimim.boshiamy.txt` 是簡體的，需要*繁體*字根表的話可以在 [這裡](http://code.google.com/p/vimim/issues/detail?id=81#c12) 的 Comment 12 找到，也可以用以下指令下載
+在 [vimim-data][vimim-data] 裡的 `vimim.boshiamy.txt` 是簡體的，需要 **繁體** 字根表的話可以在 [這裡](http://code.google.com/p/vimim/issues/detail?id=81#c12) 的 Comment 12 找到，也可以用以下指令下載
 
     $ cd plugin/
     $ curl -L -o vimim.boshiamy.txt 'http://vimim.googlecode.com/issues/attachment?aid=-3753471203417674374&name=vimim.boshiamy.txt&token=4kxnscnnepPyuZOUUeR6_UOT-TQ%3A1341559768762'
