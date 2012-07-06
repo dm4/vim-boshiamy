@@ -9,10 +9,10 @@
 
 ## 字根表
 
-需要字根表的話，可以從 [vimim-data][vimim-data] 找到 `vimim.boshiamy.txt`
+在 [vimim-data][vimim-data] 裡的 `vimim.boshiamy.txt` 是簡體的，需要*繁體*字根表的話可以在 [這裡](http://code.google.com/p/vimim/issues/detail?id=81#c12) 的 Comment 12 找到，也可以用以下指令下載
 
     $ cd plugin/
-    $ curl -O http://vimim-data.googlecode.com/svn/trunk/data/vimim.boshiamy.txt
+    $ curl -L -o vimim.boshiamy.txt 'http://vimim.googlecode.com/issues/attachment?aid=-3753471203417674374&name=vimim.boshiamy.txt&token=4kxnscnnepPyuZOUUeR6_UOT-TQ%3A1341559768762'
 
 [vimim]: http://www.vim.org/scripts/script.php?script_id=2506
 [vimim-data]: http://vimim-data.googlecode.com
